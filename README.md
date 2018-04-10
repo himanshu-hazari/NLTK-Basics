@@ -27,4 +27,6 @@ git commit -m "First commit"
 git remote add origin <remote repository URL >
 #if fatal: remote origin already exists. then change origin to origin1 
 git push origin master
+#or delete the origin
+git remote rm origin
 ```
